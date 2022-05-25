@@ -1,0 +1,1 @@
+Hello! This is the github organization for the discord bot Knot Bot! Whilst the code is closed source yet, it might get published at some point. You can invite the bot [here](https://top.gg/bot/728557571266576395) and join the discord support server [here](https://discord.gg/echHtUa). We also have a [youtube tutorial](https://www.youtube.com/watch?v=luMbHwxmo8Q) :D
